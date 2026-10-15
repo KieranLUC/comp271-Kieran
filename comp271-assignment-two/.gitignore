@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea_modules/
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Build directories
+target/
+build/
+bin/
+generated/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse (just in case)
+.classpath
+.project
+.settings/
