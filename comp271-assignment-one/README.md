@@ -30,7 +30,7 @@ and memory requirements of each algorithm, *using Big-O notation*:
 
 |   Algorithm    | Running time in Big-O notation | Memory required, also in Big-O notation |
 |:--------------:|:------------------------------:|:---------------------------------------:|
-| Selection Sort |        your answer here        |            your answer here             |
+| Selection Sort |        O(n^2)        |            0             |
 |   Quick Sort   |        you answer here         |            your answer here             |
 |   Merge Sort   |        your answer here        |            your answer here             |
 
